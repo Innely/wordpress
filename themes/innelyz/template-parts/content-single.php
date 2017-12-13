@@ -1,10 +1,8 @@
 <?php
 /**
- * The template used for displaying page content
+ * The template used for displaying single page content
  *
- * @package WordPress
- * @subpackage Twenty_Sixteen
- * @since Twenty Sixteen 1.0
+ * @package innelyz
  */
 ?>
 
