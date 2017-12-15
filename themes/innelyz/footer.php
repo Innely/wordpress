@@ -12,6 +12,10 @@
 	<footer class="site-footer">
 	<div class="container">
 
+            <div class="footer-contat-form">
+		<?php echo do_shortcode( '[contact-form-7 id="66" title="Horizontal"]' ); ?>
+	    </div>
+
             <a href="<?php echo esc_url( __( 'https://wordpress.org/', 'innelyz' ) ); ?>"><?php
 				/* translators: %s: CMS name, i.e. WordPress. */
 				printf( esc_html__( 'Proudly powered by %s', 'innelyz' ), 'WordPress' );

@@ -19,10 +19,6 @@
     <div id="primary" class="content-area">
       <main id="main" class="site-main">
 
-	<header class="page-header">
-		<h1 class="page-title">Posts</h1>
-	</header>
-
 	<?php
 	if ( have_posts() ) :
 
